@@ -1,0 +1,174 @@
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\PongGame\PongGame\PongGame\bin\Windows Phone\Debug\Content\WhiteDot.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\MessageFont.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\ding.xnb
+C:\Users\Rob\Desktop\Demo 3 Moving Dot\PongGame\PongGame\bin\Windows Phone\Debug\Content\explode.xnb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\ball.xnb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\lpaddle.xnb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\rpaddle.xnb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\MessageFont.xnb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\ding.xnb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\explode.xnb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Semester 4\WES\week9\Week9Demos\Week9Demos\9.2 Demos\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb
+C:\Semester 4\WES\Assignment2\Demo 4 Game with Sounds\PongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Semester 4\WES\Assignment2\Assignment2-8112011-11pm - Copy\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\bgm.xnb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Semester 4\WES\Assignment2\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\bgm.xnb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\bgm.xnb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+E:\Brenda\Canberra\UC\Semester 4\WES\Assignment2\U3043362U3043371U3055632\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\bgm.xnb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\PongGame.pdb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\PongGame.dll
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\PongGame.pdb
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\XapCacheFile.xml
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml.g
+D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

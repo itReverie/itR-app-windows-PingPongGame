@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\ball.png</Source>
+      <Name>Images\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb</Output>
+      <Time>2010-11-16T04:31:00+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\lpaddle.png</Source>
+      <Name>Images\lpaddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb</Output>
+      <Time>2010-11-16T04:31:00+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\rpaddle.png</Source>
+      <Name>Images\rpaddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb</Output>
+      <Time>2010-11-16T04:31:00+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\ScoreFont.spritefont</Source>
+      <Name>Font\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb</Output>
+      <Time>2010-11-16T04:31:00+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\ding.wav</Source>
+      <Name>Sound\ding</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb</Output>
+      <Time>2010-11-16T04:31:00+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\explode.wav</Source>
+      <Name>Sound\explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb</Output>
+      <Time>2010-11-16T04:31:00+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\bgm.wav</Source>
+      <Name>Sound\bgm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\bgm.xnb</Output>
+      <Time>2011-11-19T11:24:12+11:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGameContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Semester 4\WES\Assignment2\U3043362U3043371U3055632\Assignment2\PongGame\PongGame\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-20T14:13:44.8486429+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

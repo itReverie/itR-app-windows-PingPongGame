@@ -1,0 +1,7 @@
+Content\Images\ball.xnb
+Content\Images\lpaddle.xnb
+Content\Images\rpaddle.xnb
+Content\Font\ScoreFont.xnb
+Content\Sound\ding.xnb
+Content\Sound\explode.xnb
+Content\Sound\bgm.xnb

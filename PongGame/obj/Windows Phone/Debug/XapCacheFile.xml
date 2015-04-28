@@ -1,0 +1,14 @@
+﻿<xapCache source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\PongGame.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="10/1/2013 9:13:36 PM">
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\Background.png" archivePath="Background.png" lastWriteTime="11/16/2010 5:30:56 AM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\GameThumbnail.png" archivePath="GameThumbnail.png" lastWriteTime="11/16/2010 5:30:56 AM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/1/2013 9:13:34 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/1/2013 9:13:34 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\PongGame.dll" archivePath="PongGame.dll" lastWriteTime="10/1/2013 9:13:34 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Images\ball.xnb" archivePath="Content\Images\ball.xnb" lastWriteTime="10/1/2013 9:13:33 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Images\lpaddle.xnb" archivePath="Content\Images\lpaddle.xnb" lastWriteTime="10/1/2013 9:13:33 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Images\rpaddle.xnb" archivePath="Content\Images\rpaddle.xnb" lastWriteTime="10/1/2013 9:13:33 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Font\ScoreFont.xnb" archivePath="Content\Font\ScoreFont.xnb" lastWriteTime="10/1/2013 9:13:33 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\ding.xnb" archivePath="Content\Sound\ding.xnb" lastWriteTime="10/1/2013 9:13:33 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\explode.xnb" archivePath="Content\Sound\explode.xnb" lastWriteTime="10/1/2013 9:13:33 PM" />
+  <file source="D:\IT-Reverie\Articles\ITArticles\PingPong-Game\PingPongGame\PongGame\bin\Windows Phone\Debug\Content\Sound\bgm.xnb" archivePath="Content\Sound\bgm.xnb" lastWriteTime="10/1/2013 9:13:34 PM" />
+</xapCache>
