@@ -1,6 +1,6 @@
 # PingPongGame
-Game for Windows Phone 7.1. It shows the basic states and contents. 
-![logic](http://www.itreverie.com/githubimages/itR-PingPongGame.jpg)
+Windows Phone 7.1. game app that shows the basic states and contents. 
+![logic](http://www.itreverie.com/githubimages/itReverie-app-windows-pingponggame.jpg)
 
 
 
